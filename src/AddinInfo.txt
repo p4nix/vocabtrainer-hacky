@@ -1,0 +1,12 @@
+//------------------------------------------------------------------
+// Addin-Application header control file, created with the CASIO SDK
+//------------------------------------------------------------------
+[OUTPUT]     : "LATINUM.G1A"
+[BINDATA]    : "FXADDINror.bin"
+[DISPNAME]   : "LATINUM"
+[APPNAME]    : "@LATINUM"
+[VERSION]    : "13.37.0000"
+[APL_ICON]   : "MainIcon.bmp"
+[MODULE_NUM] : 0
+[MOD1_TITLE] : "LATINUM"
+[MOD1_ICON]  : "eActivityIcon.bmp"
